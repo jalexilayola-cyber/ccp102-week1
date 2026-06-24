@@ -1,4 +1,4 @@
-# ccp102-week1
+# ccp102-week1-layola
 Name: Jahzeel Alexi Layola
 
 Course: CPP102 - Programming Logic and Design
